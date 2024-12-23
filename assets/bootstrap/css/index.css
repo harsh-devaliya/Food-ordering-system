@@ -1,0 +1,67 @@
+* {
+    font-family: "poppins";
+}
+
+/* Navbar Menu Style */
+.nav-item .nav-link {
+    font-size: 18px;
+    color: black;
+}
+
+.dropdown-menu .dropdown-item {
+    font-size: 18px;
+}
+
+/* CSS for Index Page Slider  */
+.carousel-item img {
+    width: 100%;
+    height: 40vw;
+}
+
+/* CSS for Index Page */
+.underline {
+    height: 3px;
+    border-radius: 6px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+/* CSS for Carousel Slider Buttons */
+.owl-carousel .owl-nav button.owl-prev span {
+    padding: 0px 12px;
+    background: #5c636a;
+    color: white;
+    font-size: 26px;
+    border-radius: 3px;
+}
+
+.owl-carousel .owl-nav button.owl-next span {
+    padding: 0px 12px;
+    background: #5c636a;
+    color: white;
+    font-size: 26px;
+    border-radius: 3px;
+}
+
+.card-img-top {
+    /* border-radius: 10px; */
+    /* margin-top: -50px; */
+    width: 100%;
+    height: 190px;
+}
+
+.card-body .card-price {
+    font-size: 14px;
+}
+
+.card-text {
+    font-size: 14px;
+    text-align: justify;
+}
+
+/* CSS for About Us in Index Page */
+.about-img {
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+}
